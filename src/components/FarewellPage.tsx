@@ -64,7 +64,7 @@ export default function FarewellPage() {
         >
           <div className="relative aspect-video md:aspect-[21/9] overflow-hidden rounded-3xl shadow-2xl border-8 border-white">
             <img
-              src="/team-photo.png"
+              src="https://i.postimg.cc/PJLCfdY8/nivara-team.png"
               alt="The Nivara Team"
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
