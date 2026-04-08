@@ -67,11 +67,6 @@ export default function FarewellPage() {
               src="/team-photo.png"
               alt="The Nivara Team"
               className="w-full h-full object-cover"
-              onError={(e) => {
-                // Fallback to placeholder if local image is not found
-                const target = e.target as HTMLImageElement;
-                target.src = "https://picsum.photos/seed/nivara-foundation-team/1200/600";
-              }}
               referrerPolicy="no-referrer"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 flex items-end p-8">
