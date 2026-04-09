@@ -16,14 +16,14 @@ export default function FarewellPage() {
             A Farewell Tribute
           </span>
           <h1 className="serif-display text-6xl md:text-8xl font-light text-gray-900 mb-6 leading-tight">
-            Nivara
+            Nivãra
           </h1>
           <p className="max-w-2xl mx-auto text-gray-600 font-body text-xl italic leading-relaxed mb-8">
             "Alvida sirf ek mod hai, rishta nahi — <br />
-            Aap Nivara ke the, Nivara aapki hamesha rahegi."
+            Aap Nivãra ke the, Nivãra aapki hamesha rahegi."
           </p>
           <p className="max-w-2xl mx-auto text-gray-500 font-body text-base leading-relaxed mb-12">
-            You were all here when Nivara was nothing but an idea, together we built the foundation. 
+            You were all here when Nivãra was nothing but an idea, together we built the foundation. 
             Now we pass the torch to the next ambassadors who will live up to our mission, 
             providing a shelter for everyone who deserves to belong.
           </p>
@@ -51,7 +51,7 @@ export default function FarewellPage() {
           <h2 className="serif-display text-4xl font-medium text-gray-900 mb-4">A Foundation Built Together</h2>
           <div className="flex items-center gap-2 text-warm-accent/60 text-sm uppercase tracking-wider font-sans font-bold">
             <Calendar className="w-4 h-4" />
-            Nivara Team • 2025 - 2026
+            Nivãra Team • 2025 - 2026
           </div>
         </div>
 
@@ -65,7 +65,7 @@ export default function FarewellPage() {
           <div className="relative aspect-video md:aspect-[21/9] overflow-hidden rounded-3xl shadow-2xl border-8 border-white">
             <img
               src="https://i.postimg.cc/PJLCfdY8/nivara-team.png"
-              alt="The Nivara Team"
+              alt="The Nivãra Team"
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
             />
@@ -77,7 +77,7 @@ export default function FarewellPage() {
           {/* Decorative caption */}
           <div className="mt-8 text-center max-w-2xl mx-auto">
             <p className="text-gray-600 font-body leading-relaxed italic">
-              "We walked into Ashreya Old Age Home not knowing what to expect we walked out knowing exactly why Nivara exists, we walked the first step together, you will be remembered for the rest of our journey."
+              "We walked into Ashreya Old Age Home not knowing what to expect we walked out knowing exactly why Nivãra exists, we walked the first step together, you will be remembered for the rest of our journey."
             </p>
           </div>
         </motion.div>
@@ -94,13 +94,13 @@ export default function FarewellPage() {
           <div className="max-w-3xl mx-auto text-left space-y-6 text-white/90 font-body leading-relaxed text-lg bg-white/10 backdrop-blur-md p-10 rounded-3xl border border-white/10">
             <h3 className="serif-display text-3xl text-center mb-8 text-white">The Founder's Words</h3>
             <p>
-              When we first started Nivara, it was just a dream shared among a few passionate individuals. We didn't have much, but we had a shared vision of creating a space where everyone felt they belonged.
+              When we first started Nivãra, it was just a dream shared among a few passionate individuals. We didn't have much, but we had a shared vision of creating a space where everyone felt they belonged.
             </p>
             <p>
               Looking at this team today, I am overwhelmed with gratitude. Each of you has poured your heart and soul into this foundation. You've worked late nights, overcome countless obstacles, and most importantly, you've touched the lives of so many people.
             </p>
             <p>
-              As some of you move on to new adventures, remember that you are the architects of Nivara. The walls we built together will stand strong because of the love and dedication you laid in the foundation. Thank you for believing in the dream, and thank you for making it a reality.
+              As some of you move on to new adventures, remember that you are the architects of Nivãra. The walls we built together will stand strong because of the love and dedication you laid in the foundation. Thank you for believing in the dream, and thank you for making it a reality.
             </p>
             <p className="text-right font-serif italic mt-8 text-xl text-white">
               — K Sai Sathvik, The Founder
@@ -115,7 +115,7 @@ export default function FarewellPage() {
           <Heart className="text-warm-accent fill-warm-accent w-6 h-6" />
         </div>
         <h3 className="serif-display text-3xl font-light text-gray-900 mb-2">With Love & Gratitude</h3>
-        <p className="text-warm-accent/60 font-sans text-sm uppercase tracking-[0.3em]">Team Nivara</p>
+        <p className="text-warm-accent/60 font-sans text-sm uppercase tracking-[0.3em]">Team Nivãra</p>
       </footer>
     </div>
   );
